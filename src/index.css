@@ -1,0 +1,17 @@
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+button, input, select {
+  font-family: inherit;
+}
+
+button {
+  transition: 0.2s ease;
+}
